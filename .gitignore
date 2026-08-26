@@ -1,5 +1,11 @@
 .venv/
 __pycache__/
 .ipynb_checkpoints/
+nyc-data-full/
 *.pyc
 .DS_Store
+
+# Local datasets and generated analysis files
+*.csv
+*.ipynb
+*.pbix
